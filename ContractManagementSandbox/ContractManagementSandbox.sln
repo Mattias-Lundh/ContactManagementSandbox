@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractManagementSandbox.App", "ContractManagementSandbox.App\ContractManagementSandbox.App.csproj", "{323021F3-3277-4900-9DCB-5E61242EECC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323021F3-3277-4900-9DCB-5E61242EECC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323021F3-3277-4900-9DCB-5E61242EECC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323021F3-3277-4900-9DCB-5E61242EECC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323021F3-3277-4900-9DCB-5E61242EECC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3DE49E-3126-43B2-AAA6-134D39B5D5F7}
+	EndGlobalSection
+EndGlobal
